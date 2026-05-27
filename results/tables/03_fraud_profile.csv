@@ -1,0 +1,13 @@
+use_chip,time_band,txns,fraud_count,fraud_rate,fraud_share
+Online Transaction,1_오전(6-11),522370,4118,0.7883,27.89
+Online Transaction,2_오후(12-17),584390,3902,0.6677,26.43
+Online Transaction,0_새벽(0-5),117673,317,0.2694,2.15
+Chip Transaction,2_오후(12-17),2219467,3022,0.1362,20.47
+Online Transaction,3_저녁(18-23),238231,240,0.1007,1.63
+Chip Transaction,3_저녁(18-23),1081286,877,0.0811,5.94
+Swipe Transaction,2_오후(12-17),1630160,675,0.0414,4.57
+Chip Transaction,1_오전(6-11),2426357,933,0.0385,6.32
+Swipe Transaction,1_오전(6-11),1756800,548,0.0312,3.71
+Swipe Transaction,3_저녁(18-23),764963,101,0.0132,0.68
+Swipe Transaction,0_새벽(0-5),236146,26,0.011,0.18
+Chip Transaction,0_새벽(0-5),324625,4,0.0012,0.03
