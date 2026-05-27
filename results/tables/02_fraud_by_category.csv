@@ -1,0 +1,58 @@
+mcc,mcc_desc,txns,fraud_count,fraud_rate,fraud_share,fraud_rank
+3722,WYNDHAM HOTEL AND RESORTS,13737,148,1.0774,1.26,1
+3504,HILTON HOTELS,13861,144,1.0389,1.22,2
+3509,MARRIOTT HOTELS,13934,132,0.9473,1.12,3
+3684,BUDGET HOST INNS,13848,122,0.881,1.04,4
+5815,"Digital Goods: Media, Books, Movies, Music",56259,441,0.7839,3.75,5
+7801,Government-Licensed On-Line Casinos (On-Line Gambling),15601,107,0.6859,0.91,6
+5651,Family Clothing Stores,66722,445,0.6669,3.78,7
+7011,"Lodging – Hotels, Motels, Resorts, Central Reservation Services (not elsewhere classified)",14967,97,0.6481,0.82,8
+3780,Hotels/Motels/Inns/Resorts,12733,81,0.6361,0.69,9
+5311,Department Stores,428597,2491,0.5812,21.18,10
+3596,Hotels/Motels/Inns/Resorts,12705,69,0.5431,0.59,11
+4722,Travel Agencies and Tour Operations,28351,148,0.522,1.26,12
+7922,"Theatrical Producers (Except Motion Pictures), Ticket Agencies",35301,178,0.5042,1.51,13
+3730,MGM GRAND HOTEL,12662,63,0.4976,0.54,14
+3640,HYATT HOTEL,13113,60,0.4576,0.51,15
+5661,Shoe Stores,12260,56,0.4568,0.48,16
+3775,Hotels/Motels/Inns/Resorts,12493,57,0.4563,0.48,17
+3771,Hotels/Motels/Inns/Resorts,12434,54,0.4343,0.46,18
+5310,Discount Stores,220240,955,0.4336,8.12,19
+5719,Miscellaneous Home Furnishing Specialty Stores,77308,297,0.3842,2.52,20
+5251,Hardware Stores,31439,69,0.2195,0.59,21
+4829,Money Orders – Wire Transfer,522252,975,0.1867,8.29,22
+5300,Wholesale Clubs,541949,998,0.1842,8.48,23
+5211,Lumber and Building Materials Stores,154560,249,0.1611,2.12,24
+5970,Artist’s Supply and Craft Shops,60535,88,0.1454,0.75,25
+7995,"Betting (including Lottery Tickets, Casino Gaming Chips, Off-track Betting and Wagers at Race Tracks)",27855,40,0.1436,0.34,26
+4214,"Motor Freight Carriers, Moving and Storage Companies, Trucking – Local/Long Distance, Delivery Services – Local",86615,122,0.1409,1.04,27
+5655,"Sports Apparel, Riding Apparel Stores",15412,20,0.1298,0.17,28
+5921,"Package Stores – Beer, Wine, and Liquor",113143,133,0.1176,1.13,29
+4814,"Fax services, Telecommunication Services",195898,197,0.1006,1.67,30
+8043,"Opticians, Opticians Goods and Eyeglasses",15302,13,0.085,0.11,31
+5813,"Drinking Places (Alcoholic Beverages), Bars, Taverns, Cocktail lounges, Nightclubs and Discotheques",212586,167,0.0786,1.42,32
+9402,Postal Services – Government Only,86556,67,0.0774,0.57,33
+5912,Drug Stores and Pharmacies,688957,498,0.0723,4.23,34
+7832,Motion Picture Theaters,125539,90,0.0717,0.77,35
+4121,Taxicabs and Limousines,490265,330,0.0673,2.81,36
+7210,"Laundry, Cleaning, and Garment Services",28342,17,0.06,0.14,37
+5814,Fast Food Restaurants,441326,232,0.0526,1.97,38
+7542,Car Washes,34245,18,0.0526,0.15,39
+8099,Medical Services and Health Practitioners (Not Elsewhere Classified),13848,7,0.0505,0.06,40
+5411,"Grocery Stores, Supermarkets",1418257,560,0.0395,4.76,41
+4899,Cable and other pay television (previously Cable Services),46087,18,0.0391,0.15,42
+8021,Dentists and Orthodontists,29010,11,0.0379,0.09,43
+8011,Doctors and Physicians (Not Elsewhere Classified),21928,8,0.0365,0.07,44
+5541,Service Stations ( with or without ancillary services),1253896,253,0.0202,2.15,45
+5812,Eating places and Restaurants,883460,170,0.0192,1.45,46
+7349,"Cleaning and Maintenance, Janitorial Services",45273,8,0.0177,0.07,47
+5942,Book Stores,206292,35,0.017,0.3,48
+5499,Misc. Food Stores – Convenience Stores and Specialty Markets,1280233,194,0.0152,1.65,49
+7230,Barber and Beauty Shops,96607,11,0.0114,0.09,50
+7802,Government-Licensed Horse/Dog Racing,13988,1,0.0071,0.01,51
+7538,Automotive Service Shops,444346,19,0.0043,0.16,52
+4111,"Local/Suburban Commuter Passenger Transportation – Railroads, Feries, Local Water Transportation.",79593,0,0.0,0.0,53
+4900,"Electric, Gas, Sanitary and Water Utilities",219715,0,0.0,0.0,53
+6300,"Insurance Sales, Underwriting, and Premiums",46026,0,0.0,0.0,53
+7393,Protective and Security Services – Including Armored Carsand Guard Dogs,10851,0,0.0,0.0,53
+4784,Toll and Bridge Fees,631157,0,0.0,0.0,53
